@@ -1,0 +1,5 @@
+# Sithum is the required reviewer for all repository changes
+* @SithumBuddhika
+
+# GitHub configuration files are also owned by Sithum
+/.github/ @SithumBuddhika
